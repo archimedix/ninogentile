@@ -17,6 +17,7 @@ Il sito è stato regalato da Archimedix a Nino in occasione dell'uscita del suo 
 
 ## Non versionato
 
-`_archivio/` (in `.gitignore`) contiene l'export WordPress (WXR) e i 251 allegati originali non
-usati dalle pagine pubblicate. Resta fuori dalla repo perché l'export contiene bozze non
+`_archivio/` (in `.gitignore`) contiene l'export WordPress (WXR), i 251 allegati originali non
+usati dalle pagine pubblicate e, in `varianti-srcset/`, le 1.026 versioni ridimensionate delle foto
+che le pagine citavano solo nel `srcset` (tolto per alleggerire il sito da 240 a 47 MB di immagini). Resta fuori dalla repo perché l'export contiene bozze non
 pubblicate, email e IP degli utenti.
